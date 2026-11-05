@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 4.4)
+cmake_minimum_required(VERSION 3.28)
 project(yosys_consumer_example LANGUAGES CXX)
 
 # All that is required to make this project use Yosys
